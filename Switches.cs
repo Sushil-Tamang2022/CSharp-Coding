@@ -1,5 +1,3 @@
-@BroCodez
-4 years ago
 using System;
 
 namespace MyFirstProgram
