@@ -2,7 +2,7 @@ using System;
 
 namespace MyFirstProgram
 {
-    class Program 
+    class Program
     {
         static void Main(string[] args)
         {
@@ -31,7 +31,7 @@ namespace MyFirstProgram
             this.color = color;
         }
         public override string ToString()
-        {       
+        {
             return "This is a " + make + " " + model;
         }
     }
