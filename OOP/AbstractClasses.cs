@@ -15,7 +15,7 @@ namespace MyFirstProgram
 
 
             Console.ReadKey();
-        }   
+        }
     }
     abstract class Vehicle
     {
